@@ -26,6 +26,6 @@ steamはSTG作品を全て購入しました
 
 メールで連絡してくれてもいい
 
-📧651715794@qq.com
+📧harayamarese@qq.com
 
 :-)

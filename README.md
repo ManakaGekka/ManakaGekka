@@ -1,5 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HarayamaRese)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarayamaRese)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarayamaRese)](https://github.com/anuraghazra/github-readme-stats)
 Mastered programming languages：JS、CSS、PHP<br>
 Master natural language：Japanese, Chinese<br>
 - 👋 こんにちは、原山恋星です（はらやま れせ）

@@ -1,3 +1,4 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HarayamaRese)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 こんにちは、原山恋星です（はらやま れせ）
 - 👀 ぼくは東方Project同人サークルのメンバーです。
 - 🌱 同時に私は Illusion Coloured Glazeジャパン副社長

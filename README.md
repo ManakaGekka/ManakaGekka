@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarayamaRese)](https://github.com/anuraghazra/github-readme-stats)<br>
-//举世皆浊我独清<br>
+// 举世皆浊我独清<br>
 byte world = 0b11111111;<br>
 byte me = ~world;<br>
 <br>

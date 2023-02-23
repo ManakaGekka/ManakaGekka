@@ -1,4 +1,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarayamaRese)](https://github.com/anuraghazra/github-readme-stats)<br>
+//举世皆浊我独清
+byte world = 0b11111111;
+byte me = ~world;
+
+printf("%d", me & world);
 #### Platform
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 

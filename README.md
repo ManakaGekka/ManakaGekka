@@ -10,7 +10,7 @@ printf("%d", me & world);<br>
 #### IDE
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-- 👋 こんにちは、原山恋星です（はらやま れせ）
+- 👋 こんにちは、月花真奈香です（まなか げっか）
 - 👀 ぼくは東方Project同人サークルのメンバーです。
 - 🌱 同時に私は Illusion Coloured Glazeジャパン副社長
 - 💞️ 中国にも支社があり、そこでCEOをしています。

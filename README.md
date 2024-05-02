@@ -1,5 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarayamaRese)](https://github.com/anuraghazra/github-readme-stats)<br>
-// 举世皆浊我独清<br>
+// 世界は濁っているが、私は純粋だ。<br>
 byte world = 0b11111111;<br>
 byte me = ~world;<br>
 <br>
@@ -10,34 +9,20 @@ printf("%d", me & world);<br>
 #### IDE
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-- 👋 こんにちは、月花真奈香です（まなか げっか）
-- 👀 ぼくは東方Project同人サークルのメンバーです。
-- 🌱 同時に私は Illusion Coloured Glazeジャパン副社長
-- 💞️ 中国にも支社があり、そこでCEOをしています。
+- 👋 こんにちは、塚花真中です。（まなか げっか）
+- 👀 現在、愛知県名古屋市の名古屋大学で古代建築保護の教授を務めています
+- 🌱 同時に、私はオリエンタルプロジェクト同人クラブの副社長です
 - 📫 主な事業は東方Projectコミュニティコンテンツの商業化です
+- 💞️ 私はシニアスチームプレーヤーです;
+- 🍥 私に友人のアプリケーションID899140041を送信することを歓迎します
 
-この文書は私が日本の名古屋大学にいた時に書いたものです
 
-私の日本語はとても下手で申し訳ありません、今N3だけです
-
-もしよろしければ引き続きご覧いただきありがとうございます
-
-当社の一般的な情報については、アクセスしてください https://thwiki.cc/-/4m2m
-
-But the site is not finished サイトはまだ完成していません
-
-ご覧のように私は東方プロジェクトの愛好家です
-
-一番好きなゲームは東方紺珠伝
-
-steamはSTG作品を全て購入しました
-
-あなたも東方プロジェクトSTGが好きならば、愛知県名古屋市千種区不老町,464-8601
+連絡先〒464-8601愛知県名古屋市千種区栄町
 
 保安室に俺の電話番号を聞けばいい
 
 メールで連絡してくれてもいい
 
-📧harayamarese@qq.com
+📧manakagekka@qq.com
 
 :-)

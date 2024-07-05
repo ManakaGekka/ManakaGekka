@@ -7,7 +7,7 @@ printf("%d", me & world);<br>
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 #### IDE
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - 👋 こんにちは、塚花真中です。（まなか げっか）
 - 👀 現在、愛知県名古屋市の名古屋大学で古代建築保護の教授を務めています

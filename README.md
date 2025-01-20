@@ -10,7 +10,7 @@ printf("%d", me & world);<br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - 👋 こんにちは、塚花真中です。（まなか げっか）
-- 👀 現在、愛知県名古屋市の名古屋大学で古代建築保護の教授を務めています
+- 👀 愛知県名古屋市の名古屋大学で古代建築保護を務めています
 - 🌱 同時に、私はオリエンタルプロジェクト同人クラブの副社長です
 - 📫 主な事業は東方Projectコミュニティコンテンツの商業化です
 - 💞️ 私はシニアスチームプレーヤーです;
